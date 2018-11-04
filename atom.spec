@@ -16,6 +16,8 @@ BuildRequires : libxkbfile-dev
 BuildRequires : make
 BuildRequires : nodejs
 
+Provides: libcrypto.so.1.0.0(OPENSSL_1.0.0)(64bit)
+Provides: libssl.so.1.0.0(OPENSSL_1.0.0)(64bit)
 %description
 Atom Editor
 
