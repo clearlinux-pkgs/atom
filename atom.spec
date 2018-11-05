@@ -36,4 +36,5 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/*
+/usr/bin/*
+/usr/share/*
