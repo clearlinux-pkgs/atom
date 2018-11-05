@@ -1,6 +1,6 @@
 Name     : atom
 Version  : 1.32.1
-Release  : 4
+Release  : 5
 URL      : https://github.com/atom/atom/archive/v1.32.1.tar.gz
 Source0  : https://github.com/atom/atom/archive/v1.32.1.tar.gz
 Source10 : http://localhost/atom/atom-prebuilt-1.32.1.tar.gz
