@@ -1,9 +1,9 @@
 Name     : atom
-Version  : 1.35.1
+Version  : 1.37.0
 Release  : 6
-URL      : https://github.com/atom/atom/archive/v1.35.1.tar.gz
-Source0  : https://github.com/atom/atom/archive/v1.35.1.tar.gz
-Source10 : http://localhost/atom/atom-prebuilt-1.35.1.tar.gz
+URL      : https://github.com/atom/atom/archive/v1.37.0.tar.gz
+Source0  : https://github.com/atom/atom/archive/v1.37.0.tar.gz
+Source10 : http://localhost/atom/atom-prebuilt-1.37.0.tar.gz
 Source20 : prebuild.sh
 Source30 : stub.c
 Summary  : Atom Editor
