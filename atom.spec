@@ -22,7 +22,7 @@ Provides: libssl.so.1.0.0(OPENSSL_1.0.0)(64bit)
 Atom Editor
 
 %prep
-%setup -q -n atom-1.35.1
+%setup -q -n atom-1.37.0
 
 
 %build
