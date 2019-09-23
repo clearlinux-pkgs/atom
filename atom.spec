@@ -1,9 +1,9 @@
 Name     : atom
-Version  : 1.37.0
-Release  : 7
-URL      : https://github.com/atom/atom/archive/v1.37.0.tar.gz
-Source0  : https://github.com/atom/atom/archive/v1.37.0.tar.gz
-Source10 : http://localhost/atom/atom-prebuilt-1.37.0.tar.gz
+Version  : 1.40.1
+Release  : 8
+URL      : https://github.com/atom/atom/archive/v1.40.1.tar.gz
+Source0  : https://github.com/atom/atom/archive/v1.40.1.tar.gz
+Source10 : http://localhost/atom/atom-prebuilt-1.40.1.tar.gz
 Source20 : prebuild.sh
 Source30 : stub.c
 Summary  : Atom Editor
@@ -22,7 +22,7 @@ Provides: libssl.so.1.0.0(OPENSSL_1.0.0)(64bit)
 Atom Editor
 
 %prep
-%setup -q -n atom-1.37.0
+%setup -q -n atom-1.40.1
 
 
 %build
